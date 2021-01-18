@@ -1,0 +1,38 @@
+footer {
+	margin: 10px;
+}
+
+.nav-link{
+	color: #c25e0a !important; 
+}
+
+
+
+.jumbotron{
+	padding: 3%;
+	text-align: left;
+	padding-left: 0px;
+	
+}
+
+.box1{
+	padding: .5%;
+	margin: 0;
+}
+
+p.section {
+	margin: 0;
+	color: #c25e0a;
+}
+
+.timespan {
+	text-align: right;
+}
+
+hr {
+	border-top: 1px solid gray;
+}
+
+.copyright {
+	color: blue;
+}
